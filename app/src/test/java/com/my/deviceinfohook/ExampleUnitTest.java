@@ -1,4 +1,4 @@
-package com.my.xposedbasedemo;
+package com.my.deviceinfohook;
 
 import org.junit.Test;
 
